@@ -1,0 +1,72 @@
+# Fill in, commit and push each day.
+# Group Member: FILL THIS IN
+
+Oct 23, 2017
+	Yesterday :
+	Today     : We have discussed the window layout and worked on the product backlog.
+	Obstacles :
+
+Oct 24, 2017
+	Yesterday :
+	Today     :We did nothing
+	Obstacles : Reviewing for 207 midterm
+
+Oct 25, 2017
+	Yesterday :
+	Today     : Did nothing. 
+	Obstacles :
+
+Oct 26, 2017
+	Yesterday : nothing
+	Today     : complete draw circle 1
+	Obstacles : 
+
+Oct 27, 2017
+	Yesterday :
+	Today     : Did nothing, reviewing for mid-term
+	Obstacles : mid-term
+
+Oct 28, 2017
+	Yesterday :
+	Today     : Created the ability to create a rectangle
+	Obstacles : Understanding Paint
+
+Oct 29, 2017
+	Yesterday :
+	Today     : Tried to implement the feedback for the circle and rectangle
+	Obstacles : Understand the mouse points 
+
+Oct 30, 2017
+	Yesterday :
+	Today     : I completely finished rectangle feedback and circle feedback bugs
+	Obstacles :
+
+Oct 31, 2017
+	Yesterday :
+	Today     :I created the square class and start working on the feedback, updated the color, and fillstyle
+	Obstacles : understanding the identical length and width 
+
+Nov 1, 2017
+	Yesterday :
+	Today     : Implemented Square Feedback
+	Obstacles : Making sure the length and width are identical
+	
+Nov 2, 2017
+	Yesterday :
+	Today     : Refining the Save button
+	Obstacles : The width does not include the shape selector 
+	
+Nov 3, 2017
+	Yesterday :
+	Today     : Fixed bugs with drawing on layers
+	Obstacles :
+
+Nov 4, 2017
+	Yesterday :
+	Today     : Added the functionality of users selecting different backgrounds to draw on
+	Obstacles : Understanding ImageIO and manipulating pre-coded MVC codes
+
+Nov 5, 2017
+	Yesterday :
+	Today     :
+	Obstacles :

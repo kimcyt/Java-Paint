@@ -1,0 +1,363 @@
+# Copy User Stories from the ProductBacklog 
+# to the appropriate Sprint below, after the 
+# Sprint Planning Meeting.
+
+# Sprint 1 October 23, 2017
+# Sprint 1 Backlog UserStories go below
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1: fusteven
+NAME     : Draw Circle
+OWNER    : Steven
+PRIORITY : 1
+ESTIMATE : 3 hrs
+AS A     : user
+I WANT   : To click the center of the circle, drag, and release to specify
+           a circle to be drawn in the current style.
+SO THAT  : I can add circles to my canvas
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 2: mankoomo, chuang21
+NAME     : Draw Circle Feedback
+OWNER    : Mohpreet(2hrs) and Eva (who fixed positioning problems) (1 hr)
+PRIORITY : 2
+ESTIMATE : 3 hours
+AS A     : user
+I WANT   : As a user is specifying a Circle, during the drag, a 'current'
+           circle should be on display. As the user drags, the 'current'
+           circle changes in real time so that a circle is drawn with
+           centre at users initial circle click, with radius out to
+           the current dragged mouse position.
+SO THAT  : I can see the circle I am about to build on release of the mouse
+           button.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 7: mankoomo
+NAME     : Circle drawing is broken
+OWNER    : Mohpreet
+PRIORITY : 3
+ESTIMATE : 2 hrs
+ISSUE    : The first click should specify the center of the circle, with
+           a drag for the radius. This is not the case in the current
+           implementation.
+--------------------------------------------------------------------------
+
+Sprint 2 October 26, 2017
+--------------------------------------------------------------------------
+TYPE     : USER STORY 3: fusteven, mankoomo
+NAME     : Draw Rectangle
+OWNER    : Steven (2 hrs) and Mohpreet (who fixed positioning problems) (1 hr)
+PRIORITY : 4
+ESTIMATE : 3 hrs
+AS A     : user
+I WANT   : To click, drag, and release to specify
+           a rectnagle to be drawn in the current style.
+SO THAT  : I can add rectangles to my canvas
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 8: chuang21
+NAME     : Circle drawing in a specific direction will appear two circles
+OWNER    : Yu-Hsuan Chuang (Eva) 
+PRIORITY : 4
+ESTIMATE : 2 hrs
+ISSUE    : The first click should specify the center of the circle, with
+           a drag for the radius. This is not the case in the current
+           implementation.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 4: fusteven
+NAME     : Draw Rectangle Feedback
+OWNER    : Steven
+PRIORITY : 4
+ESTIMATE : 1 hrs
+AS A     : user
+I WANT   : Similarly to Draw Circle Feedback, display the rectangle in mid construction.
+SO THAT  : I can see the rectangle I am about to build on release of the mouse button.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 5: caoyunti
+NAME     : Color selector
+OWNER    : Yunting Cao
+PRIORITY : 5
+ESTIMATE : 2hrs
+AS A     : user
+I WANT   : To be able to select the current drawing color, to be applied
+           to subsequent shapes. Example: 
+           		selects color red 
+           		mode circle
+           		draw a circle
+           		draw a circle
+           		mode rectangle
+           		draw a rectangle
+           		select color green
+           		draw a rectangle
+           		draw a rectangle
+           		select mode squiggle
+           		draw a squiggle
+           	results in two red circles and a red rectangle as well as
+           	two green rectangles and a green squiggle
+SO THAT  : users can draw in differnt colors
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 6: caoyunti
+NAME     : Fill style selector
+OWNER    : Yunting Cao
+PRIORITY : 6
+ESTIMATE : 2hrs
+AS A     : user
+I WANT   : To be able to select the current drawing style (filled or outline), to be applied
+           to subsequent shapes. Example: 
+           		selects fill style solid
+           		mode circle
+           		draw a circle
+           		draw a circle
+           		mode rectangle
+           		draw a rectangle
+           		select fill style outline
+           		draw a rectangle
+           		draw a rectangle
+           		select mode squiggle
+           		draw a squiggle
+           	results in two solid circles and a solid rectangle as well as
+           	two outlined rectangles and a squiggle
+SO THAT  : users can choose to draw filled or outlined shapes
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 7: chuang21
+NAME     : Make the Square appear when MouseReleased(without dragging line)
+OWNER    : Yu-Hsuan Chuang (Eva)
+PRIORITY : 7
+ESTIMATE : 3 hrs
+AS A     : user
+I WANT   : To click,and release to specify
+           a square to be drawn in the current style.
+SO THAT  : I can add square to my canvas
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 8: chuang21
+NAME     : Make the Square dragging line correct
+OWNER    : Yu-Hsuan Chuang (Eva)
+PRIORITY : 7
+ESTIMATE : 4 hrs
+AS A     : user
+I WANT   : To drag a square which follows the direction of the mouse.
+SO THAT  : I can see the dragging line of the square
+--------------------------------------------------------------------------
+
+Sprint 3 October 29, 2017
+--------------------------------------------------------------------------
+TYPE     : USER STORY 9: chuang21
+NAME     : Draw Square Feedback
+OWNER    : Yu-Hsuan Chuang (Eva) - chuang21
+PRIORITY : 8
+ESTIMATE : 4 hrs
+AS A     : user
+I WANT   : Similarly to Draw Circle Feedback, display the square in mid construction.
+SO THAT  : I can see the square I am about to build on release of the mouse button.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 2: mankoomo
+NAME     : Shapes being drawn in incorrect order
+OWNER    : Mohpreet
+PRIORITY : 8
+ESTIMATE : 1 hour
+ISSUE    : The first click should specify the center of the circle, with
+           a drag for the radius. This is not the case in the current
+           implementation.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 10: fusteven
+NAME     : User Background Selector
+OWNER    : Steven
+PRIORITY : 9
+ESTIMATE : 8 hrs
+AS A     : user
+I WANT   : select a different background to draw on 
+SO THAT  : it is mcuh cooler after saving the image.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 15: chuang21
+NAME     : Draw a Polyline
+OWNER    : Yu-Hsuan Chuang (Eva)
+PRIORITY : 9
+ESTIMATE : 2 hrs
+I WANT   : To click on points and make lines
+SO THAT	 : I can draw polylines on the window
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1: caoyunti
+NAME     : Icons instead of text for drawing mode selection
+OWNER    : Yunting Cao
+PRIORITY : 9
+ESTIMATE : 1 hr
+ISSUE    : Would be nice to have icons instead of "Circle", "Rectangle", ...
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 3: fusteven
+NAME     : Image saved does not include the shape selector bar
+OWNER    : Steven
+PRIORITY : 10
+ESTIMATE : 3 hour
+ISSUE    : The image saved always included the ide bar. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 4: chuang21
+NAME     : Square dragging is wrong when drag to the left and the top
+OWNER    : Yu-Hsuan Chuang (Eva) 
+PRIORITY : 10
+ESTIMATE : 4 hrs
+ISSUE    : The dragging line can't appear in a specific direction.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 5: mankoomo
+NAME     : Drawing selection mode not indicated
+OWNER    : Mohpreet
+PRIORITY : 2 hrs
+ESTIMATE : 11
+ISSUE    : Currently ,you can't tell which mode "Circle", "Rectangle", ...
+           is currently selected. Is JButton correct, is there a way
+           to highlight the currently selected mode?
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 6: caoyunti
+NAME     : Default color not indicated on color selector panel 
+OWNER    : Yunting Cao
+PRIORITY : 11
+ESTIMATE : 2 hrs
+ISSUE    : Default color black is not indicated on color selector panel 
+		   before user choose any colors.
+--------------------------------------------------------------------------
+
+
+Sprint 4 November 1, 2017
+--------------------------------------------------------------------------
+TYPE     : USER STORY 11: fusteven
+NAME     : Implement Save Button
+OWNER    : Steven
+PRIORITY : 12
+ESTIMATE : 3 hour
+ISSUE    : It allows the user to choose where to save the image drawn.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 11: mankoomo
+NAME     : Architecture behind Model is poor
+OWNER    : Mohpreet
+PRIORITY : 12
+ESTIMATE : 2 hrs
+ISSUE    : Having a list of different types of drawable things in the
+           model is cumbersome. In fact, it is currently incorrect, with
+           Squiggle's not drawing properly. Need to re-architect the Model
+           so that it is more flexible, and easier to work with.
+           Consider some design patterns, or change of responsibility
+           here.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 12: caoyunti
+NAME     : Line thickness selector
+OWNER    : Yunting Cao
+PRIORITY : 13
+ESTIMATE : 3 hrs
+AS A     : user
+I WANT   : To be able to select the current line thickness, to be applied
+           to subsequent shapes. Example:
+           		select fill style outline 
+           		selects line thickness 1
+           		mode circle
+           		draw a circle
+           		draw a circle
+           		mode rectangle
+           		draw a rectangle
+           		select line thickness 9
+           		draw a rectangle
+           		draw a rectangle
+           		select mode squiggle
+           		draw a squiggle
+           	results in two thinly outlined circles and a thinly outlined 
+           	rectangle as well as two thickly outlined rectangles and a thick squiggle
+SO THAT  : The user can choose how thick the outline of the shape to be
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 13: fusteven
+NAME     : Implement New Button
+OWNER    : Steven
+PRIORITY : 13
+ESTIMATE : 3 hrs
+ISSUE    : It allows the user to open a secondary window that is tied to the first window.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 9: chuang21
+NAME     : Fix polyline
+OWNER    : Yu-Hsuan Chuang (Eva) 
+PRIORITY : 13
+ESTIMATE : 2 hrs
+ISSUE    : The colors can not change in the same polyline 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 10: fusteven
+NAME     : Create the window rounded, more pleasing
+OWNER    : Steven
+PRIORITY : 14
+ESTIMATE : 1 hr
+ISSUE    : Hard to select and drag
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 12: caoyunti
+NAME     : color and thickness do not work on squiggle and polyline
+OWNER    : Yunting Cao
+PRIORITY : 14
+ESTIMATE : 2 hour
+ISSUE    : It allows squiggle and polyline choose color and thickness 
+--------------------------------------------------------------------------
+
+Sprint 5 November 4, 2017
+--------------------------------------------------------------------------
+TYPE     : USER STORY 14: fusteven
+NAME     : Implement Exit Button
+OWNER    : Steven
+PRIORITY : 15
+ESTIMATE : 2 hrs
+ISSUE    : It allows the user to exit the window.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 16: mankoomo
+NAME     : Implement Polyline tool
+OWNER    : Mohpreet
+PRIORITY : 8
+ESTIMATE : 2.5 hours
+I WANT   : To use the Polyline tool
+SO THAT	 : I can draw straight lines connected by the points I make wherever I click
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 17: chuang21, caoyunti
+NAME     : Add colors onto polyline and squiggle
+OWNER    : Yu-HsuanChuang(2 hrs) and Yunting Cao(3 hrs)
+PRIORITY : 9
+ESTIMATE : 5 hours
+I WANT   : To change the color when i click on different colors
+SO THAT	 : Polylines and squiggles can have many different colors
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 13: chuang21
+NAME     : Color covering on the top is wrong for Squiggle and Polyline
+OWNER    : Yu-Hsuan Chuang (Eva) 
+PRIORITY : 11
+ESTIMATE : 2 hrs
+ISSUE    : Squiggle and Polyline can not cover the color of squares, rectangles, or circles.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 14: mankoomo
+NAME     : Squiggle is broken
+OWNER    : Mohpreet
+PRIORITY : 9
+ESTIMATE : 3 hrs 
+ISSUE    : Squiggles are connected to each other by a straight line. Each drag
+		   of the mouse should be a separate squiggle. Possibly
+           the issue is with the representation of the squiggles in the Model.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 18: caoyunti
+NAME     : add button tips to shape buttons
+OWNER    : Yunting Cao
+PRIORITY : 15
+ESTIMATE : 1 hour
+SO THAT  : It explains the uses of shape buttons 
+--------------------------------------------------------------------------

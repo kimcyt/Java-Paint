@@ -1,0 +1,112 @@
+# Fill in, commit and push each day.
+# Name: Yunting Cao
+ 
+Oct 23, 2017
+	Yesterday :
+	Today     : nothing
+	Obstacles :
+
+Oct 24, 2017
+	Yesterday :nothing
+	Today     :nothing
+	Obstacles :
+
+Oct 25, 2017
+	Yesterday :nothing
+	Today     :nothing
+	Obstacles :
+
+Oct 26, 2017
+	Yesterday :
+	Today     :Complete draw circle 1
+	Obstacles :to locate the circle
+
+Oct 27, 2017
+	Yesterday :Complete draw circle 1
+	Today     :complete draw circle 2
+	Obstacles :fail to track the drawing of circle
+
+Oct 28, 2017
+	Yesterday : fail to complete draw circle 2
+	Today     : nothing
+	Obstacles :
+
+Oct 29, 2017
+	Yesterday : nothing
+	Today     : work on Color selector5
+	Obstacles : retain the colors of previous drawings
+
+Oct 30, 2017
+	Yesterday :work on Color selector5
+	Today     :fix the bug in color selector
+	Obstacles :
+
+Oct 31, 2017
+	Yesterday :fix the bug in color selector
+	Today     :complete fillOutlineSelector, fix bug1
+	Obstacles :   
+
+Nov 1, 2017
+	Yesterday :complete fillOutlineSelector, fix bug1
+	Today     :complete thickness selector
+	Obstacles :
+	
+Nov 2, 2017
+	Yesterday :complete thickness selector
+	Today     :fix squiggle, polyline color selection
+	Obstacles :
+	
+Nov 3, 2017
+	Yesterday :fix squiggle, polyline color selection
+	Today     :complete enhancement on thickness selector
+	Obstacles :
+
+Nov 4, 2017
+	Yesterday :add enhancement on thickness selector
+	Today     :continue enhancement on thickness selector
+	Obstacles :
+
+Nov 5, 2017
+	Yesterday :complete enhancement on thickness selector
+	Today     :fix minor bugs, add button tips
+	Obstacles :
+	
+Nov 7, 2017
+	Yesterday : nothing
+	Today     : discuss patterns with group members
+	Obstacles : unclear about the implementations of 2.4
+	
+Nov 8, 2017
+	Yesterday : discuss patterns with group members
+	Today     : establish basic structure of bug 2.2
+	Obstacles :
+	
+Nov 9, 2017
+	Yesterday : establish basic structure of bug 2.2
+	Today     : complete bug 2.2
+	Obstacles : need to wait for other bugs to be finished to test the program
+	
+Nov 10, 2017
+	Yesterday : complete bug 2.2
+	Today     : work on stroke types enhancement
+	Obstacles : need to wait for the new version of the program to test the enhancement
+	
+Nov 11, 2017
+	Yesterday : work on stroke types enhancement
+	Today     : help with completion of bug 2.3. link all the new code from different bugs
+	Obstacles : drawing is not displayed; repaint is not called.
+
+Nov 12, 2017
+	Yesterday : complete bug 2.3, make new code into master branch
+	Today     : fix bug 3.2, 3.4, 3.6
+	Obstacles : 
+	
+Nov 13, 2017
+	Yesterday : fix bug 3.2, 3.4, 3.6
+	Today     : fix bug 3.8, 3.7
+	Obstacles : 
+	
+Nov 14, 2017
+	Yesterday : fix bug 3.8, 3.7
+	Today     : add right angle triangle drawing
+	Obstacles :

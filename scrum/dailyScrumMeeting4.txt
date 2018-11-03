@@ -1,0 +1,111 @@
+# Fill in, commit and push each day.
+# Group Member: FILL THIS IN
+
+Oct 23, 2017
+	Yesterday : 
+	Today     : We have discussed the window layout and worked on the product backlog.
+	Obstacles :
+
+Oct 24, 2017
+	Yesterday :
+	Today     : Reviewing for 207 midterm
+	Obstacles :
+
+Oct 25, 2017
+	Yesterday :
+	Today     :NA
+	Obstacles :
+
+Oct 26, 2017
+	Yesterday :
+	Today     :NA
+	Obstacles :
+
+Oct 27, 2017
+	Yesterday :
+	Today     :NA
+	Obstacles :
+
+Oct 28, 2017
+	Yesterday :NA
+	Today     :
+	Obstacles :
+
+Oct 29, 2017
+	Yesterday : NA
+	Today     : Going over the code we have so far and try to get some idea.
+	Obstacles : Feel it difficult.
+
+Oct 30, 2017
+	Yesterday : Decided to work on squares today.
+	Today     : Create square class and make it shows on the window.
+	Obstacles : PaintSquare never work. 
+
+Oct 31, 2017
+	Yesterday : Square can't show on the window although the class is there.
+	Today     : Fix it by using Rectangle class. Could draw Squares but the dragging line is wrong.
+	Obstacles : No idea how to fix the dragging line for squares.
+
+Nov 1, 2017
+	Yesterday : Have done mouse listener for squares.
+	Today     : The dragging line for squares are fixed.
+	Obstacles : The square sometimes move with the mouse instead of sticking on the initial click point.
+	
+Nov 2, 2017
+	Yesterday : Square seems done.
+	Today     : Added feedback on drawing a square. Squares are all done.
+	Obstacles : I can only create one square.
+	
+Nov 3, 2017
+	Yesterday : Done with squares.
+	Today     : Updated the squares. Polyline is done with drawing. Try fixing squiggle. 
+	Obstacles :	Polyline change all the color after selecting a new color. Squiggle is not as easy as what it looks like...
+
+Nov 4, 2017
+	Yesterday : Can't fix squiggle.
+	Today     : Fixing the bug which polyline and squiggle can not cover other shapes' colors.
+	Obstacles : No idea how to fix it...
+
+Nov 5, 2017
+	Yesterday : Bugs fixing.
+	Today     : Polyline feedback. Generally update. Clear up productBacklog and sprintBacklog.
+	Obstacles : NA
+Nov 7, 2017
+	Yesterday : nothing
+	Today     : discuss patterns with group members
+	Obstacles : unclear about the implementations of 2.3 and 2.4
+	
+Nov 8, 2017
+	Yesterday : discuss patterns with group members
+	Today     : establish basic structure of bug 2.1
+	Obstacles : need to review for the usage of commands
+	
+Nov 9, 2017
+	Yesterday : create basic structure of bug 2.1
+	Today     : bug 2.1 is mostly done with some unsure bugs for specific shapes
+	Obstacles : need to wait for other bugs to be finished to test the program
+	
+Nov 10, 2017
+	Yesterday : bug 2.1 is basically done
+	Today     : discuss with my group members and change some of my codes in order to match everyone's work.
+	Obstacles : need to be clear whoever is linking each process in order not to miss anything
+	
+Nov 11, 2017
+	Yesterday : work on shapes dragging problem for squares and rectangles
+	Today     : help with completion of bug 2.3. link all the new code from different bugs
+	Obstacles : drawing is not displayed; repaint is not called.
+
+Nov 12, 2017
+	Yesterday : complete bug 2.3, make new code into master branch
+	Today     : keep fixing bugs from drawing commands, drawing strategies, and paint panel, paint model.
+	Obstacles : Some bugs took a long time to figure out.
+	
+Nov 13, 2017
+	Yesterday : fix some bugs.
+	Today     : fix polyline, squiggle drawings. Try to create eraser but failed.
+	Obstacles : The index and position for polyline is hard to find. Eraser is just too hard to make...
+	
+Nov 14, 2017
+	Yesterday : fix some bugs.
+	Today     : All shape drawings have no more bugs. Help my group members doing some enhancements such as triangles and cursors icons.
+	Obstacles : The triangles are hard to find the vertex. Icons might be too huge, need to change pixels.
